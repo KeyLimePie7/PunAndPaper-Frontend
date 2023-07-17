@@ -16,3 +16,21 @@
 .App-link {
   color: #61dafb;
 }
+
+/* my own */
+.showNow {
+  display: block;
+  z-index: 5;
+}
+.card {
+  width:200%;
+  margin: 0;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 0%;
+  text-align: center;
+}
+.marginSides {
+  margin-right:5px;
+  margin-left:5px;
+}
